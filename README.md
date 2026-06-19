@@ -11,3 +11,6 @@ changes flow for pushing
  git add -A
  git commit -m "some message"
  git push
+
+
+
