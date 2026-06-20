@@ -1,38 +1,32 @@
 .gear {
     position: fixed;
     top: 10px;
-    left: 10px;
+    left: 30px;
 }
 
 .pill {
     position: fixed;
-    top: 15px;
-    right: 50px;
+    top: 10px;
+    right: 30px;
+
 }
 
-.main {
+.main-content {
     text-align: center;
-    border-radius: 10px;
 }
 
-.lens {
-    position: relative;
-    left: 30px;
-
-}
-
-.search-box {
-    border-radius: 20px;
-    padding-left: 40px;
-    padding-right: 10px;
+.search-bar {
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.first {
-    color: blueviolet;
-}
-
-.tagline {
-    color: deeppink;
+.lens {
+    position: relative;
+    top: 3px;
+    bottom: 10px;
+    right: 10px;
+    left: 30px;
 }
